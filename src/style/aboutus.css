@@ -1,0 +1,102 @@
+  .aboutUsContainer{
+    margin: 1rem;
+  }
+
+  .mottoContainer{
+    display: flex;
+    flex-direction: column;
+    background-color: #77FFd4 ;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .mottos{
+    display: flex;
+    width: 70%;
+    margin: auto;
+  }
+
+  .mottoBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+    width: 100%;
+  }
+
+  .mottoText>h2{
+    font-size: 2vw;
+  }
+
+  .mottoText > p {
+    font-size: 0.9rem;
+    color: #333;
+    font-weight: 500;
+    font-style: oblique;
+    text-align: justify;
+  }
+
+  .mottoIcon{
+    padding-bottom: 2rem;
+  }
+
+  .mottoText{
+    display: flex;
+    flex-direction: column;
+    border-top: 0.5rem solid #333;;
+  }
+
+  .cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+    justify-content: space-between;
+  }
+
+  .iconImg{
+    width: 6vw;
+  }
+
+  @media only screen and (max-width:1300px){
+    .mottoBox{
+      padding: 2rem;
+    }
+  }
+
+  @media only screen and (max-width:1080px){
+    .mottos{
+      width: 90%;
+    }
+  }
+
+  @media only screen and (max-width:850px){
+    .mottoText>p{
+      font-size: 0.8rem;
+    }
+    .mottoIcon{
+      padding-bottom: 1rem;
+    }
+  }
+
+  @media only screen and (max-width:580px){
+    .mottos{
+      flex-wrap: wrap;
+    }
+    .iconImg {
+      width: 15vw;
+    }
+    .mottoText>h2 {
+      font-size: 5vw;
+   }
+   .mottoText>p {
+    font-size: 1rem;
+   }
+  }
+
+  @media only screen and (max-width: 1220px){
+    .cardContainer{
+      justify-content: space-evenly;
+    }
+  }

@@ -1,0 +1,121 @@
+
+.card{
+    width: 226px;
+    height: 32rem;
+    display: flex;
+    border-radius: 6px;
+    padding: 1rem;
+    filter:brightness(0.6) ;
+    transition: all 0.4s ease;
+}
+
+.card:hover{
+    filter: brightness(0.8);
+    transform: scale(0.99);
+}
+
+.designationBox{
+    align-self: flex-end;
+}
+
+.designationBox>:nth-child(1){
+    font-size: 1.4rem;
+    color: white;
+}
+
+.designationBox>:nth-child(2){
+    font-size: 1rem;
+    color: whitesmoke;
+}
+
+@media only screen and (max-width:1600px){
+    .card{
+        width: 200px;
+        height: 28rem;
+    }
+}
+
+@media only screen and (max-width:1450px){
+    .card{
+        width: 185px;
+        height: 22rem;
+    }
+}
+
+@media only screen and (max-width:1340px){
+    .card{
+        width: 165px;
+        height: 18rem;
+    }
+}
+
+@media only screen and (max-width:1220px){
+    .card{
+        width: 262px;
+        height: 26rem;
+        margin: 1rem;
+    }
+}
+
+@media only screen and (max-width: 1010px){
+    .card{
+        width: 202px;
+        height: 20rem;
+    }
+    .designationBox>:nth-child(1){
+        font-size: 1.1rem;
+    }
+    .designationBox>:nth-child(2){
+        font-size: 0.9rem;
+    }
+}
+
+@media only screen and (max-width: 830px){
+    .card{
+        width: 185px;
+        height: 18rem;
+    }
+}
+
+@media only screen and (max-width: 780px){
+    .card{
+        width: 150px;
+        height: 16rem;
+        margin: 0.8rem;
+    }
+}
+
+@media only screen and (max-width: 674px){
+    .card{
+        width: 136px;
+        height: 14rem;
+    }
+}
+
+@media only screen and (max-width: 632px){
+    .card{
+        width: 125px;
+        height: 12rem;
+        margin: 0.5rem;
+    }
+    .designationBox>:nth-child(1){
+        font-size: 16px;
+    }
+    .designationBox>:nth-child(2){
+        font-size: 0.7rem;
+    }
+}
+
+@media only screen and (max-width: 560px){
+    .card{
+        width: 104px;
+        height: 10rem;
+    }
+}
+
+@media only screen and (max-width: 345px){
+    .card{
+        width: 85%;
+        height: 22rem;
+    }
+}

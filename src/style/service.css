@@ -1,0 +1,84 @@
+.serviceContainer{
+    margin: 1rem;
+}
+
+.offerBox{
+    max-width: 1700px;
+    margin: auto;
+    padding-top: 3rem;
+    text-align: center;
+}
+
+.feature{
+    display: flex;
+}
+
+.infoBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    width: 35%;
+}
+
+.imageBox{
+    width: 65%;
+}
+
+.imageBox > img{
+    width: 100%;
+}
+
+.infoBoxPara{
+    font-size: 1.5rem;
+    margin: 0 1rem;
+}
+
+.motoBox{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #77efc7;
+}
+
+
+@media only screen and (max-width:1300px) {
+    .infoBoxPara{
+        font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width:850px) {
+    .infoBoxPara{
+        font-size: 1rem;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width:770px) {
+    .infoBoxPara{
+        font-size: 0.9rem;
+    }
+    .infoBox{
+        padding: 1rem
+    }
+}
+
+@media only screen and (max-width:580px){
+    .infoBoxPara{
+        font-size: 12px;
+    }    
+    .infoBox{
+        padding: 0;
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width:415px) {
+    .infoBoxPara{
+        font-size: 9px;
+    }    
+}

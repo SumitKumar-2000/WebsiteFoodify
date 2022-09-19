@@ -1,0 +1,62 @@
+:root{
+    --fs-xl : 6vw;
+    --fs-600 : 2rem;
+    --fs-650 : 2vw;
+    --fs-500 : 1rem;
+}
+
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.absoluteCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.curPointer{
+    cursor: pointer;
+}
+
+.maxWidth{
+    max-width: 1600px;
+    margin: auto;
+}
+
+.Head{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: var(--fs-xl);
+    font-weight: bold;
+    text-shadow: 1px 1px 4px rgba(150, 150, 150, 1);
+    color: #333;
+}
+
+.infoBoxHead{
+    font-size: var(--fs-650);
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: bold;
+}
+
+.socialIcons{
+    font-size: 1.6rem;
+    color: #333;
+    margin-right: 0.5rem;
+}
+
+.socialIcons :hover{
+    color: rgb(0, 0, 0);
+}
+
+.linkDecor{
+    text-decoration: none;
+    color: black;
+}
+
+@media only screen and (max-width: 768px) {
+    .Head{
+        text-align: center;
+    }
+}

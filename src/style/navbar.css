@@ -1,0 +1,30 @@
+.navContainer{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: transparent;
+    position: fixed;
+    padding: 1rem;
+}
+
+.featuredIcon{
+    width: 20%;
+}
+
+.buttonContainer{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.foodifyIcon{
+    width: 5rem;
+    height: 5rem;
+}
+
+.navButton{
+    font-size: 1rem;
+    font-weight: 600;
+}

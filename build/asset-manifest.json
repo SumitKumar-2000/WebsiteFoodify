@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/FoodifyWebsite/static/css/main.598d0c2a.css",
+    "main.js": "/FoodifyWebsite/static/js/main.299b84fc.js",
+    "static/js/526.b89ee91f.chunk.js": "/FoodifyWebsite/static/js/526.b89ee91f.chunk.js",
+    "static/js/232.9f824fb7.chunk.js": "/FoodifyWebsite/static/js/232.9f824fb7.chunk.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/FoodifyWebsite/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/sumit_2.png": "/FoodifyWebsite/static/media/sumit_2.e1317cedf2562c27181d.png",
+    "static/media/imageScanimg.PNG": "/FoodifyWebsite/static/media/imageScanimg.8ea45169c7297b75e700.PNG",
+    "static/media/foodTrackimg.PNG": "/FoodifyWebsite/static/media/foodTrackimg.88c9c61a619163acf5f8.PNG",
+    "static/media/ourDemo.png": "/FoodifyWebsite/static/media/ourDemo.cdb958223487b268282b.png",
+    "static/media/ankit.jpg": "/FoodifyWebsite/static/media/ankit.78885d82f664c46b876c.jpg",
+    "static/media/hemant.jpeg": "/FoodifyWebsite/static/media/hemant.a6309dded894736b0de7.jpeg",
+    "static/media/ish.jpeg": "/FoodifyWebsite/static/media/ish.3214d0aa653724da87b9.jpeg",
+    "static/media/kuwar.jpg": "/FoodifyWebsite/static/media/kuwar.420c0a92e993d47816a4.jpg",
+    "static/media/communityImg.PNG": "/FoodifyWebsite/static/media/communityImg.300a46e204abc3c711b4.PNG",
+    "static/media/risheek.jpeg": "/FoodifyWebsite/static/media/risheek.185027d4e85ab86dc48e.jpeg",
+    "static/media/foodifyyLogo.PNG": "/FoodifyWebsite/static/media/foodifyyLogo.36d0c09efc3c8801eba8.PNG",
+    "index.html": "/FoodifyWebsite/index.html",
+    "main.598d0c2a.css.map": "/FoodifyWebsite/static/css/main.598d0c2a.css.map",
+    "main.299b84fc.js.map": "/FoodifyWebsite/static/js/main.299b84fc.js.map",
+    "526.b89ee91f.chunk.js.map": "/FoodifyWebsite/static/js/526.b89ee91f.chunk.js.map",
+    "232.9f824fb7.chunk.js.map": "/FoodifyWebsite/static/js/232.9f824fb7.chunk.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/FoodifyWebsite/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598d0c2a.css",
+    "static/js/main.299b84fc.js"
+  ]
+}
