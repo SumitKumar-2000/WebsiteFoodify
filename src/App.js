@@ -2,12 +2,11 @@ import { useState } from 'react';
 import './App.css';
 import AboutUs from './components/aboutus';
 import ContactUs from './components/contactus';
-import Nav2 from './components/nav';
 import Navbar from './components/navbar';
 import ScrollToTop from './components/scrollToTop';
 import Service from './components/service';
 import UserPreview from './components/userpreview';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
 
