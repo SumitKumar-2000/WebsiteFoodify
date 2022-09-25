@@ -6,6 +6,7 @@
     background-color: transparent;
     position: fixed;
     padding: 1rem;
+    z-index: 20;
 }
 
 .featuredIcon{
@@ -27,4 +28,10 @@
 .navButton{
     font-size: 1rem;
     font-weight: 600;
+    text-decoration: none;
+    color: black;
+}
+
+.navButton:hover{
+    color: rgba(0, 0, 0, 0.8);
 }

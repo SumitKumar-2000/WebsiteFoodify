@@ -8,13 +8,13 @@ const AboutUs = () => {
     {
       id : 1,
       subHead : "OUR STORY",
-      subPara : "Bunch of kids from a tear 3 college had a vision to prove themself and have an impact on this world, we're on a mission to chnge the PERCEPTION of everyone towards health. We believe it is never about tech or platform or idea, It is about execution and that is our motive.",
+      subPara : "Bunch of kids from a tier 3 college had a vision to prove themself and have an impact on this world, we're on a mission to change the PERCEPTION of everyone towards health. We believe it is never about tech or platform or idea, It is about execution and that is our motive.",
       icon : require('../assets/ourStory.png')
     },
     {
       id : 2,
       subHead : "OUR VISION",
-      subPara : "Our Vision is greater than any other purpose. Our motioves are greater than placements or job. We want to re-vamp how we percieve health & tech together. Health food can now be tracked with just one click. Let's build a community for people who believe in a healthy lifestyle.",
+      subPara : "Our Vision is greater than any other purpose. Our motioves are greater than placements or job. We want to revamp how we percieve health & tech together. Health food can now be tracked with just one click. Let's build a community for people who believe in a healthy lifestyle.",
       icon : require('../assets/ourVision.png')
     },
     {
