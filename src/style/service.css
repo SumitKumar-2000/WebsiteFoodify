@@ -30,6 +30,23 @@
     width: 100%;
 }
 
+.infoHeadButton{
+    width: 50%;
+    background-color: aquamarine;
+    padding: 1rem;
+    border: 2px solid #333;
+    border-radius: 40px;
+}
+
+.infoHeadButton > a{
+    color : #333;
+    font-size: 2vw;
+}
+
+.infoHeadButton:hover{
+    background-color: rgb(155, 255, 222);
+}
+
 .infoBoxPara{
     font-size: 1.5rem;
     margin: 0 1rem;
@@ -46,20 +63,20 @@
 
 
 @media only screen and (max-width:1300px) {
-    .infoBoxPara{
+    .infoBoxPara {
         font-size: 1.2rem;
     }
 }
 
 @media only screen and (max-width:850px) {
-    .infoBoxPara{
+    .infoBoxPara {
         font-size: 1rem;
         margin: 0;
     }
 }
 
 @media only screen and (max-width:770px) {
-    .infoBoxPara{
+    .infoBoxPara {
         font-size: 0.9rem;
     }
     .infoBox{

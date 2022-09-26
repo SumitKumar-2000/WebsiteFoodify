@@ -42,7 +42,11 @@ const Service = () => {
 
         <div className='feature' >
           <div className='infoBox'>
-            <h1 className='infoBoxHead'><a className='linkDecor' href='https://foodify-axios-image-api-test.ishkapoor.repl.co/' target='_blank' rel='noreferrer'> <strong style={{color:"#77efc7"}}>&#8968;</strong> CLICK TO TEST OUR MODEL <strong style={{color:"#77efc7"}}>&#8971;</strong></a></h1>
+            <h1 className='infoHeadButton curPointer absoluteCenter'>
+              <a className='linkDecor' href='https://foodify-axios-image-api-test.ishkapoor.repl.co/' target='_blank' rel='noreferrer'>
+                 TRY NOW 
+              </a>
+            </h1>
             <p className='infoBoxPara'>Our ML model is one of the best architecture that we've developed whose core is based on faster inference and accurate results.</p>
           </div>
           <div className='imageBox'>
