@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 import AboutUs from './components/aboutus';
 import ContactUs from './components/contactus';
-import Navbar from './components/navbar';
+import NavBar from './components/navbr';
 import ScrollToTop from './components/scrollToTop';
 import Service from './components/service';
 import UserPreview from './components/userpreview';
@@ -22,8 +22,7 @@ function App() {
 
   return (
     <div>      
-      {/* <Nav2/>? */}
-      {scrollToTopButton === false && <Navbar/>}
+      {scrollToTopButton === false && <NavBar/>}
       <div>
         <UserPreview/>
         <Service/>

@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/WebsiteFoodify/static/css/main.598d0c2a.css",
-    "main.js": "/WebsiteFoodify/static/js/main.1956c121.js",
-    "static/js/526.b89ee91f.chunk.js": "/WebsiteFoodify/static/js/526.b89ee91f.chunk.js",
-    "static/js/232.9f824fb7.chunk.js": "/WebsiteFoodify/static/js/232.9f824fb7.chunk.js",
+    "main.css": "/WebsiteFoodify/static/css/main.c93d02f6.css",
+    "main.js": "/WebsiteFoodify/static/js/main.8887ee15.js",
     "static/js/787.c4e7f8f9.chunk.js": "/WebsiteFoodify/static/js/787.c4e7f8f9.chunk.js",
     "static/media/sumit_2.png": "/WebsiteFoodify/static/media/sumit_2.e1317cedf2562c27181d.png",
+    "static/media/bgJelly.jpg": "/WebsiteFoodify/static/media/bgJelly.57fb64df5670aef5c86a.jpg",
     "static/media/imageScanimg.PNG": "/WebsiteFoodify/static/media/imageScanimg.8ea45169c7297b75e700.PNG",
     "static/media/foodTrackimg.PNG": "/WebsiteFoodify/static/media/foodTrackimg.88c9c61a619163acf5f8.PNG",
     "static/media/ourDemo.png": "/WebsiteFoodify/static/media/ourDemo.cdb958223487b268282b.png",
@@ -15,16 +14,14 @@
     "static/media/kuwar.jpg": "/WebsiteFoodify/static/media/kuwar.420c0a92e993d47816a4.jpg",
     "static/media/communityImg.PNG": "/WebsiteFoodify/static/media/communityImg.300a46e204abc3c711b4.PNG",
     "static/media/risheek.jpeg": "/WebsiteFoodify/static/media/risheek.185027d4e85ab86dc48e.jpeg",
-    "static/media/foodifyyLogo.PNG": "/WebsiteFoodify/static/media/foodifyyLogo.36d0c09efc3c8801eba8.PNG",
+    "static/media/foodifyyLogo.PNG": "/WebsiteFoodify/static/media/foodifyyLogo.94142e042a4b5563813f.PNG",
     "index.html": "/WebsiteFoodify/index.html",
-    "main.598d0c2a.css.map": "/WebsiteFoodify/static/css/main.598d0c2a.css.map",
-    "main.1956c121.js.map": "/WebsiteFoodify/static/js/main.1956c121.js.map",
-    "526.b89ee91f.chunk.js.map": "/WebsiteFoodify/static/js/526.b89ee91f.chunk.js.map",
-    "232.9f824fb7.chunk.js.map": "/WebsiteFoodify/static/js/232.9f824fb7.chunk.js.map",
+    "main.c93d02f6.css.map": "/WebsiteFoodify/static/css/main.c93d02f6.css.map",
+    "main.8887ee15.js.map": "/WebsiteFoodify/static/js/main.8887ee15.js.map",
     "787.c4e7f8f9.chunk.js.map": "/WebsiteFoodify/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.598d0c2a.css",
-    "static/js/main.1956c121.js"
+    "static/css/main.c93d02f6.css",
+    "static/js/main.8887ee15.js"
   ]
 }
