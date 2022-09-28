@@ -16,7 +16,7 @@ const NavBar = () => {
       <nav className="navbar" onClick={e => e.stopPropagation()}>
         <div className="nav-container">
           <div className="nav-logo">
-          <img src={require('../assets/foodifyyLogo.PNG')} alt="foodify icon" className='foodifyIcon'/>
+          <img src={require('../assets/logoFoodifyy.png')} alt="foodify icon" className='foodifyIcon'/>
           </div>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">

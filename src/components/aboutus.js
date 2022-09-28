@@ -63,7 +63,7 @@ const AboutUs = () => {
     },
     {
       id : 6,
-      name : "Hemant Singh",
+      name : "Hemant",
       designation : "Data Scientist & ML Engineer",
       pic : require('../assets/partnersImg/hemant.jpeg'),
       alignSelf : "flex-end"
