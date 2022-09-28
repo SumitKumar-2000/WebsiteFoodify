@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WebsiteFoodify/static/css/main.b78f9fff.css",
-    "main.js": "/WebsiteFoodify/static/js/main.cbf8017c.js",
+    "main.js": "/WebsiteFoodify/static/js/main.2b2cc015.js",
     "static/js/787.c4e7f8f9.chunk.js": "/WebsiteFoodify/static/js/787.c4e7f8f9.chunk.js",
     "static/media/sumit_2.png": "/WebsiteFoodify/static/media/sumit_2.e1317cedf2562c27181d.png",
     "static/media/bgJelly.jpg": "/WebsiteFoodify/static/media/bgJelly.57fb64df5670aef5c86a.jpg",
@@ -14,14 +14,14 @@
     "static/media/kuwar.jpg": "/WebsiteFoodify/static/media/kuwar.420c0a92e993d47816a4.jpg",
     "static/media/communityImg.PNG": "/WebsiteFoodify/static/media/communityImg.300a46e204abc3c711b4.PNG",
     "static/media/risheek.jpeg": "/WebsiteFoodify/static/media/risheek.185027d4e85ab86dc48e.jpeg",
-    "static/media/foodifyyLogo.PNG": "/WebsiteFoodify/static/media/foodifyyLogo.94142e042a4b5563813f.PNG",
+    "static/media/logoFoodifyy.png": "/WebsiteFoodify/static/media/logoFoodifyy.843c886035b9a5cc8a21.png",
     "index.html": "/WebsiteFoodify/index.html",
     "main.b78f9fff.css.map": "/WebsiteFoodify/static/css/main.b78f9fff.css.map",
-    "main.cbf8017c.js.map": "/WebsiteFoodify/static/js/main.cbf8017c.js.map",
+    "main.2b2cc015.js.map": "/WebsiteFoodify/static/js/main.2b2cc015.js.map",
     "787.c4e7f8f9.chunk.js.map": "/WebsiteFoodify/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b78f9fff.css",
-    "static/js/main.cbf8017c.js"
+    "static/js/main.2b2cc015.js"
   ]
 }
