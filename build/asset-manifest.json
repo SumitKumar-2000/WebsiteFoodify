@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WebsiteFoodify/static/css/main.b78f9fff.css",
+    "main.css": "/WebsiteFoodify/static/css/main.69f9aca0.css",
     "main.js": "/WebsiteFoodify/static/js/main.90472f10.js",
     "static/js/787.c4e7f8f9.chunk.js": "/WebsiteFoodify/static/js/787.c4e7f8f9.chunk.js",
     "static/media/sumit_2.png": "/WebsiteFoodify/static/media/sumit_2.e1317cedf2562c27181d.png",
@@ -16,12 +16,12 @@
     "static/media/risheek.jpeg": "/WebsiteFoodify/static/media/risheek.185027d4e85ab86dc48e.jpeg",
     "static/media/logoFoodify.png": "/WebsiteFoodify/static/media/logoFoodify.652ec32094d12eba4e1f.png",
     "index.html": "/WebsiteFoodify/index.html",
-    "main.b78f9fff.css.map": "/WebsiteFoodify/static/css/main.b78f9fff.css.map",
+    "main.69f9aca0.css.map": "/WebsiteFoodify/static/css/main.69f9aca0.css.map",
     "main.90472f10.js.map": "/WebsiteFoodify/static/js/main.90472f10.js.map",
     "787.c4e7f8f9.chunk.js.map": "/WebsiteFoodify/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b78f9fff.css",
+    "static/css/main.69f9aca0.css",
     "static/js/main.90472f10.js"
   ]
 }
