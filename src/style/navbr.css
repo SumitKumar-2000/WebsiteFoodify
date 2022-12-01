@@ -43,8 +43,7 @@
   }
   
   .nav-links {
-    color: #000000;
-    font-weight: 600;
+    color: #ffffff;
     text-decoration: none;
     padding: 0.5rem 3.4rem;
     height: 100%;
@@ -66,14 +65,14 @@
   
   .nav-item:hover:after {
     width: 100%;
-    background: #77ffd4;
+    background: #ffffff;
   }
   
   .nav-item.active {
     color: #77ffd4;
     border: 1px solid #77ffd4;
   }
-  
+
   .nav-icon {
     display: none;
   }

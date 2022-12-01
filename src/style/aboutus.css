@@ -1,11 +1,12 @@
   .aboutUsContainer{
-    margin: 1rem;
+    padding-top: 3rem;
   }
 
   .mottoContainer{
     display: flex;
     flex-direction: column;
-    background-color: #77FFd4 ;
+    /* background-color: #77FFd4 ; */
+    background: linear-gradient(to right, #4C45B8 0%, #02AAC1 74%);
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
@@ -28,11 +29,12 @@
 
   .mottoText>h2{
     font-size: 2vw;
+    color: #ffffff;
   }
 
   .mottoText > p {
     font-size: 0.9rem;
-    color: #333;
+    color: #ffffff;
     font-weight: 500;
     font-style: oblique;
     text-align: justify;
@@ -45,7 +47,7 @@
   .mottoText{
     display: flex;
     flex-direction: column;
-    border-top: 0.5rem solid #333;;
+    border-top: 0.5rem solid #ffffff;;
   }
 
   .cardContainer{

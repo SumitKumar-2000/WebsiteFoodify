@@ -8,12 +8,12 @@ const AboutUs = () => {
     {
       id : 1,
       subHead : "OUR STORY",
-      subPara : "Bunch of kids from a tier 3 college had a vision to prove themself and have an impact on this world, we're on a mission to change the PERCEPTION of everyone towards health. We believe it is never about tech or platform or idea, It is about execution and that is our motive.",
+      subPara : "Bunch of kids from a tier 3 college had a vision to prove themself and have an impact on this world, we're on a mission to change the Perception of everyone towards health. We believe it is never about tech or platform or idea, It is about execution and that is our motive.",
       icon : require('../assets/ourStory.png')
     },
     {
       id : 2,
-      subHead : "OUR VISION",
+      subHead : "OUR VISION", 
       subPara : "Our Vision is greater than any other purpose. Our motioves are greater than placements or job. We want to revamp how we percieve health & tech together. Health food can now be tracked with just one click. Let's build a community for people who believe in a healthy lifestyle.",
       icon : require('../assets/ourVision.png')
     },
@@ -28,7 +28,7 @@ const AboutUs = () => {
   const partnersArr = [
     {
       id : 1,
-      name : "Kuwar Kapoor",
+      name : "Kuwar Kapur",
       designation : "Backend & ML Engineer",
       pic : require('../assets/partnersImg/kuwar.jpg'),
       alignSelf : "flex-start"
@@ -43,14 +43,14 @@ const AboutUs = () => {
     {
       id : 3,
       name : "Ish Kapoor",
-      designation : "Product Manager",
+      designation : "Mentor",
       pic : require('../assets/partnersImg/ish.jpeg'),
       alignSelf : "flex-start"
     },
     {
       id : 4,
       name : "Sumit Kumar",
-      designation : "Software Developer",
+      designation : "Web Developer",
       pic : require('../assets/partnersImg/sumit_2.png'),
       alignSelf : "flex-end"
     },
@@ -63,7 +63,7 @@ const AboutUs = () => {
     },
     {
       id : 6,
-      name : "Hemant",
+      name : "Hament",
       designation : "Data Scientist & ML Engineer",
       pic : require('../assets/partnersImg/hemant.jpeg'),
       alignSelf : "flex-end"
