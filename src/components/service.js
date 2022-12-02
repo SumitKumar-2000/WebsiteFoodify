@@ -43,7 +43,7 @@ const Service = () => {
         <div className='feature' >
           <div className='infoBox'>
             <h1 className='infoHeadButton curPointer absoluteCenter'>
-              <a className='linkDecor' href='https://foodify-axios-image-api-test.ishkapoor.repl.co/' target='_blank' rel='noreferrer'>
+              <a className='linkDecor' href='http://api.foodifyy.com/' target='_blank' rel='noreferrer'>
                  TRY NOW 
               </a>
             </h1>
