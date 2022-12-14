@@ -12,7 +12,7 @@ const Service = () => {
       <div className='offerBox maxWidth'>
         <div className='feature' >
           <div className='imageBox'>
-            <img src={require('../assets/imageScanimg.PNG')} alt="featuring scan"/>
+            <img src={require('../assets/imageScan.png')} alt="featuring scan"/>
           </div>
           <div className='infoBox'>
             <h1 className='infoBoxHead'> Food Scanning  </h1>
@@ -26,7 +26,7 @@ const Service = () => {
             <p className='infoBoxPara'>Record your daily detailed calorie intake, better control over food diet.</p>
           </div>
           <div className='imageBox'>
-            <img src={require('../assets/foodTrackimg.PNG')} alt="featuring scan"/>
+            <img src={require('../assets/foodTrackingg.png')} alt="featuring scan"/>
           </div>
         </div>
 
