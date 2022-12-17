@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import AboutUs from './components/aboutus';
 import ContactUs from './components/contactus';
+import Footer from './components/Footer';
 import Header from './components/header';
 import NavBar from './components/navbr';
 import ScrollToTop from './components/scrollToTop';
@@ -28,7 +29,8 @@ function App() {
         <Header/>
         <Service/>
         <AboutUs/>
-        <ContactUs/>   
+        {/* <ContactUs/>    */}
+        <Footer/>
       </div>
         { scrollToTopButton && <ScrollToTop setScrollToTopButton={setScrollToTopButton}/>}
     </div>
