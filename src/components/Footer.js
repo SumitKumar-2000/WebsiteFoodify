@@ -20,10 +20,10 @@ function Footer() {
     </div>
     
   </div>
-  <div className={` mx-6 py-10 text-center md:text-left relative left-4` }>
+  <div className={`mx-6 py-10 text-center md:text-left relative left-4` }>
     <div className="grid grid-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
       <div className="">
-        
+
         <p className={` text-yellow-50`}>
         Foodifyy is a machine learning-based health tech startup. At Foodifyy we aim to provide you with a new experience to know more about what you are eating.
         </p>
