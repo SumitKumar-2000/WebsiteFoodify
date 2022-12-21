@@ -1,5 +1,5 @@
 :root{
-    --fs-xl : 6vw;
+    --fs-xl : 5vw;
     --fs-600 : 2rem;
     --fs-650 : 2vw;
     --fs-500 : 1rem;
@@ -27,17 +27,20 @@
 }
 
 .Head{
+    background: linear-gradient(to right, #4C45B8 0%, #02AAC1 74%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* color: #333333; */
     font-family: 'Archivo Black', sans-serif;
     font-size: var(--fs-xl);
     font-weight: bold;
-    text-shadow: 1px 1px 4px rgba(150, 150, 150, 1);
-    color: #333;
 }
 
 .infoBoxHead{
     font-size: var(--fs-650);
     font-family: 'Archivo Black', sans-serif;
     font-weight: bold;
+    color: #3565bb;
 }
 
 .socialIcons{

@@ -16,6 +16,9 @@
 
 .designationBox{
     align-self: flex-end;
+    padding: 8px;
+    border-radius: 4px;
+    background-color: #00000087;
 }
 
 .designationBox>:nth-child(1){
