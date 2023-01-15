@@ -15,7 +15,6 @@ const Navbar = () => {
             <Link to='service' smooth={true} offset={-100} duration={700} className='navButton curPointer'>Service</Link>
             <Link to='about' smooth={true} offset={-100} duration={700} className='navButton curPointer'>About Us</Link>
             <Link to='contact' smooth={true} offset={-100} duration={700} className='navButton curPointer'>Contact Us</Link>
-
         </div>
     </div>
   )

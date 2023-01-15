@@ -29,7 +29,7 @@ const Service = () => {
             <img src={require('../assets/foodTrackingg.png')} alt="featuring scan"/>
           </div>
         </div>
-
+        
         <div className='feature' >
           <div className='imageBox'>
             <img src={require('../assets/communityImg.PNG')} alt="featuring scan"/>
