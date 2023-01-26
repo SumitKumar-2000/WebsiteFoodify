@@ -1,104 +1,167 @@
-  .aboutUsContainer{
-    padding-top: 3rem;
+@media only screen and (max-width:380px){
+  #our_team{
+    font-size: 0.7rem;
+  }
+  #devname{
+    font-size: 0.5rem;
+  }
+  #dev_designation{
+    font-size: 0.3rem;
+  }
+  #desv_designation{
+    font-size: 0.2rem;
+    max-width: 5rem;
+  }
+  #dev_image{
+    max-width: 8rem;
+  }
+}
+
+  @media only screen and (max-width:420px){
+    #our_team{
+      font-size: 1.2rem;
+    }
+    #aboutus_description{
+      max-width: 8rem;
+    }
+    #aboutus_description{
+      font-size: 0.5rem;
+      font-weight: 500;
+    }
+    
   }
 
-  .mottoContainer{
-    display: flex;
-    flex-direction: column;
-    /* background-color: #77FFd4 ; */
-    background: linear-gradient(to right, #4C45B8 0%, #02AAC1 74%);
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-  
-  .mottos{
-    display: flex;
-    width: 70%;
-    margin: auto;
-  }
+  /* @media only screen and (min-width: 250px){
+    #our_team{
+      font-size: 1.4rem;
+      margin-bottom: 1rem
+    }
+    #devname{
+      font-size: 1rem;
+      margin-bottom: 2rem;
+      font-weight: 400;
+    }
+    #dev_designation{
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+    #aboutus_description{
+      font-size: 1rem;
+      max-width: 20rem;
+      word-spacing: 0.2rem;
+      line-height:1.6rem;
+    }
+    #dev_image{
+      max-width: 10rem;
+    }
+  } */
 
-  .mottoBox{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 4rem;
-    width: 100%;
-  }
-
-  .mottoText>h2{
-    font-size: 2vw;
-    color: #ffffff;
-  }
-
-  .mottoText > p {
-    font-size: 0.9rem;
-    color: #ffffff;
-    font-weight: 500;
-    font-style: oblique;
-    text-align: justify;
-  }
-
-  .mottoIcon{
-    padding-bottom: 2rem;
-  }
-
-  .mottoText{
-    display: flex;
-    flex-direction: column;
-    border-top: 0.5rem solid #ffffff;;
-  }
-
-  .cardContainer{
-    display: flex;
-    flex-wrap: wrap;
-    padding: 2rem 0;
-    justify-content: space-between;
-  }
-
-  .iconImg{
-    width: 6vw;
-  }
-
-  @media only screen and (max-width:1300px){
-    .mottoBox{
-      padding: 2rem;
+  @media only screen and (min-width: 610px){
+    #our_team{
+      font-size: 2rem;
+      margin-bottom: 1rem
+    }
+    #devname{
+      font-size: 1.4rem;
+      margin-bottom: 2rem;
+      font-weight: 400;
+    }
+    #dev_designation{
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+    #aboutus_description{
+      font-size: 1rem;
+      max-width: 30rem;
+      word-spacing: 0.2rem;
+      line-height:1.6rem;
+    }
+    #dev_image{
+      max-width: 16rem;
     }
   }
 
-  @media only screen and (max-width:1080px){
-    .mottos{
-      width: 90%;
+  @media only screen and (min-width: 752px){
+    #our_team{
+      font-size: 4rem;
+      margin-bottom: 1rem
+    }
+    #devname{
+      font-size: 2rem;
+      margin-bottom: 2rem;
+      font-weight: 400;
+    }
+    #dev_designation{
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+    #aboutus_description{
+      font-size: 1rem;
+      max-width: 28rem;
+      word-spacing: 0.2rem;
+      line-height:2rem;
+    }
+    #dev_image{
+      max-width: 30rem;
+    }
+  }
+  @media only screen and (min-width: 970px){
+
+    #our_team{
+      font-size: 4.7rem;
+      margin-bottom: 1rem
+    }
+    #devname{
+      font-size: 3.5rem;
+      margin-bottom: 2rem;
+      font-weight: 400;
+    }
+    #dev_designation{
+      font-size: 1.6rem;
+      margin-bottom: 1rem;
+    }
+    #aboutus_description{
+      font-size: 1rem;
+      max-width: 32rem;
+      word-spacing: 0.2rem;
+      line-height:2.6rem;
+    }
+    #dev_image{
+      max-width: 38rem;
     }
   }
 
-  @media only screen and (max-width:850px){
-    .mottoText>p{
-      font-size: 0.8rem;
+  @media only screen and (min-width: 1180px){
+
+    #our_team{
+      font-size: 4.7rem;
+      margin-bottom: 1rem
     }
-    .mottoIcon{
-      padding-bottom: 1rem;
+    #devname{
+      font-size: 3.5rem;
+      margin-bottom: 2rem;
+      font-weight: 400;
+    }
+    #dev_designation{
+      font-size: 2.3rem;
+      margin-bottom: 1rem;
+    }
+    #aboutus_description{
+      font-size: 1.3rem;
+      max-width: 35rem;
+      word-spacing: 0.2rem;
+      line-height:2.6rem;
+    }
+    #dev_image{
+      max-width: 48rem;
     }
   }
 
-  @media only screen and (max-width:580px){
-    .mottos{
-      flex-wrap: wrap;
+  @media only screen and (max-width:320px){
+    .designation{
+      font-size: 0.7rem;
     }
-    .iconImg {
-      width: 15vw;
-    }
-    .mottoText>h2 {
-      font-size: 5vw;
-   }
-   .mottoText>p {
-    font-size: 1rem;
-   }
-  }
-
-  @media only screen and (max-width: 1220px){
-    .cardContainer{
-      justify-content: space-evenly;
+    .description{
+      font-size:0.8rem;
     }
   }

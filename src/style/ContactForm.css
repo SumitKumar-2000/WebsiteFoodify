@@ -1,0 +1,26 @@
+@media only screen  and (min-width:900px){
+    #form_heading{
+        font-size: 4rem;
+    }
+    #foodifyy_form{
+        width: 40rem;
+        height: 40rem;
+    }
+    #main_form{
+        margin-top: 1rem;
+    }
+    #name_input,#email_input{
+        height: 3rem;
+    }
+    #message_input{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        height: 14rem;
+    }
+    #form_btn{
+        margin-top: 0.3rem;
+        font-size: 1.5rem;
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+}
