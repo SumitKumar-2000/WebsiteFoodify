@@ -2,13 +2,13 @@ import React from 'react'
 
 function Card({devimg,devname,devdesig}) {
   return (
-    <div className="carousel-item w-full ">
+    <div className="carousel-item w-full max-h-full">
         <div className='grid grid-cols-2 place-items-center gap-4 bg-[#00745B] p-5'>
             <div className='place-self-end'>
               <img
               id="dev_image"
                 src={devimg}
-                className="block max-w-[10rem] h-auto sm:max-w-[15rem] md:max-w-[20rem] lg:max-w-[25rem] rounded-md"
+                className="block max-w-[10rem] max-h-2 sm:max-w-[15rem] md:max-w-[20rem] lg:max-w-[25rem] rounded-md"
                 alt="Wild Landscape"
               />
             </div>

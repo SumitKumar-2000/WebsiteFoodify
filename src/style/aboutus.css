@@ -1,60 +1,79 @@
-@media only screen and (max-width:380px){
+@media only screen and (min-width:200px){
   #our_team{
-    font-size: 0.7rem;
+    font-size: 1rem;
   }
   #devname{
     font-size: 0.5rem;
+    margin-bottom: 0.4rem;
+    font-weight: 400;
   }
   #dev_designation{
-    font-size: 0.3rem;
+    font-size: 0.5rem;
+    margin-bottom: 0.4rem;
   }
-  #desv_designation{
-    font-size: 0.2rem;
-    max-width: 5rem;
+  #aboutus_description{
+    max-width: 7rem;
+    line-height: 0.6rem;
+    word-spacing: 0.3rem;
+    font-size: 0.3rem;
+    font-weight: 500;
   }
   #dev_image{
     max-width: 8rem;
+    height: 8rem;
+  }
+}
+@media only screen and (min-width:300px){
+  #our_team{
+    font-size: 1rem;
+  }
+  #devname{
+    font-size: 0.5rem;
+    margin-bottom: 0.4rem;
+    font-weight: 400;
+  }
+  #dev_designation{
+    font-size: 0.5rem;
+    margin-bottom: 0.4rem;
+  }
+  #aboutus_description{
+    max-width: 8rem;
+    line-height: 0.6rem;
+    word-spacing: 0.1rem;
+    font-size: 0.4rem;
+    font-weight: 500;
+  }
+  #dev_image{
+    max-width: 10rem;
+    height: 10rem;
   }
 }
 
-  @media only screen and (max-width:420px){
+@media only screen and (min-width:400px){
     #our_team{
-      font-size: 1.2rem;
-    }
-    #aboutus_description{
-      max-width: 8rem;
-    }
-    #aboutus_description{
-      font-size: 0.5rem;
-      font-weight: 500;
-    }
-    
-  }
-
-  /* @media only screen and (min-width: 250px){
-    #our_team{
-      font-size: 1.4rem;
-      margin-bottom: 1rem
+      font-size: 1.5rem;
     }
     #devname{
       font-size: 1rem;
-      margin-bottom: 2rem;
+      margin-bottom: 0.6rem;
       font-weight: 400;
     }
     #dev_designation{
-      font-size: 0.9rem;
+      font-size: 0.6rem;
       margin-bottom: 1rem;
     }
     #aboutus_description{
-      font-size: 1rem;
       max-width: 20rem;
+      font-size: 0.6rem;
+      font-weight: 500;
       word-spacing: 0.2rem;
-      line-height:1.6rem;
+      line-height: 0.7rem;
     }
     #dev_image{
-      max-width: 10rem;
+      max-width: 15rem;
+      height: 15rem;
     }
-  } */
+  }
 
   @media only screen and (min-width: 610px){
     #our_team{
@@ -63,7 +82,7 @@
     }
     #devname{
       font-size: 1.4rem;
-      margin-bottom: 2rem;
+      margin-bottom: 1rem;
       font-weight: 400;
     }
     #dev_designation{
@@ -71,13 +90,14 @@
       margin-bottom: 1rem;
     }
     #aboutus_description{
-      font-size: 1rem;
-      max-width: 30rem;
-      word-spacing: 0.2rem;
-      line-height:1.6rem;
+      font-size: 0.7rem;
+      max-width: 16rem;
+      word-spacing: 0.1rem;
+      line-height:1.2rem;
     }
     #dev_image{
-      max-width: 16rem;
+      max-width: 20rem;
+      height: 20rem;
     }
   }
 
@@ -91,18 +111,21 @@
       margin-bottom: 2rem;
       font-weight: 400;
     }
+
     #dev_designation{
       font-size: 1.2rem;
       margin-bottom: 1rem;
     }
+
     #aboutus_description{
       font-size: 1rem;
-      max-width: 28rem;
+      max-width: 25rem;
       word-spacing: 0.2rem;
       line-height:2rem;
     }
     #dev_image{
-      max-width: 30rem;
+      max-width: 20rem;
+      height: 30rem;
     }
   }
   @media only screen and (min-width: 970px){
@@ -121,13 +144,14 @@
       margin-bottom: 1rem;
     }
     #aboutus_description{
+      max-width: 35rem;
       font-size: 1rem;
-      max-width: 32rem;
       word-spacing: 0.2rem;
       line-height:2.6rem;
     }
     #dev_image{
       max-width: 38rem;
+      height: 30rem;
     }
   }
 
@@ -147,21 +171,14 @@
       margin-bottom: 1rem;
     }
     #aboutus_description{
-      font-size: 1.3rem;
-      max-width: 35rem;
+      max-width: 30rem;
+      font-size: 1rem;
+      max-width: 40rem;
       word-spacing: 0.2rem;
-      line-height:2.6rem;
+      line-height:2rem;
     }
     #dev_image{
       max-width: 48rem;
-    }
-  }
-
-  @media only screen and (max-width:320px){
-    .designation{
-      font-size: 0.7rem;
-    }
-    .description{
-      font-size:0.8rem;
+      height: 40rem;
     }
   }

@@ -1,0 +1,13 @@
+@media only screen and (max-width:360px) {
+    .company,.contactus{
+        font-size: 0.7rem;
+    }
+    .sub_company_menu,.sub_contactus_menu{
+        font-size: 0.5rem;
+    }
+}
+
+.devider{
+    border: 2px solid rgb(0, 28, 0);
+    background-color: blue;
+}

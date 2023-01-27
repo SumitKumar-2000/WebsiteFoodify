@@ -1,6 +1,5 @@
 import React from 'react'
 import '../../style/aboutus.css'
-import Card from './Card'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, A11y } from 'swiper';
 import 'swiper/css';
@@ -93,11 +92,11 @@ const AboutUs = () => {
                   <div className='h-auto bg-[#00745B]' id='AboutUs'>
                     <div className="w-full ">         
                     <div className='grid grid-cols-2 place-items-center gap-4 bg-[#00745B] p-5'>
-                      <div className='place-self-end'>
+                      <div id="image_container" className='place-self-center max-h-[30rem] lg:max-h-[45.5rem]'>
                         <img
                         id="dev_image"
                           src={pic.pic}
-                          className="block max-w-[10rem] sm:max-w-[15rem] md:max-w-[20rem] lg:max-w-[25rem] rounded-md max-h-[30rem]"
+                          className="object-center sm:h-[30rem] md:h-[30.5rem] lg:h-[40rem] max-w-[10rem] sm:max-w-[15rem] md:max-w-[20rem] lg:max-w-[25rem] rounded-md "
                           alt="Wild Landscape"
                         />
                       </div>

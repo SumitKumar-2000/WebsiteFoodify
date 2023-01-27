@@ -10,7 +10,7 @@ const Services = () => {
             <div className='flex mr-12 md:mr-24 xl:mr-20 mb-16' >
             <img className='h-48 md:h-[449px] xl:h-[856px] -z-10 absolute' src="/Images/Services_Images/Vector-1.svg" alt='image' />
               <div className='basis-5/12 ml-9 md:ml-16 xl:ml-20 xl:mr-40 '>
-              <img className='h-48 md:h-[449px] xl:h-[856px] z-10 ' src="/Images/Services_Images/XMockup1.png" alt='image' />
+              <img className='h-48 md:h-[449px] xl:h-[856px] z-10 ' src="/Images/Services_Images/X Mockup.svg" alt='image' />
               </div>
               <div className='basis-7/12 flex flex-col justify-center'>
                 <div className='flex items-center gap-x-1.5 xl:gap-x-7 mb-1.5 xl:mb-14'>
