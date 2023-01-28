@@ -75,7 +75,8 @@ const AboutUs = () => {
     }
   ]
 
-  return (<Swiper
+  return (<div id="aboutus">
+    <Swiper
     // install Swiper modules
     modules={[Navigation, Pagination,A11y]}
     spaceBetween={1}
@@ -113,6 +114,7 @@ const AboutUs = () => {
       })
     }
   </Swiper>
+  </div>
 
 
   )
